@@ -2,11 +2,11 @@
 
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Welcome extends Application
+class Parts extends Application
 {
     public function index()
     {
-	$this->data['pagebody'] = 'welcome_message';
+	$this->data['pagebody'] = 'parts';
 	$this->render(); 
     }
 }
