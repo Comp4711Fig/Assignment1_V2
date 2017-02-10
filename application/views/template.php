@@ -1,3 +1,4 @@
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
     
@@ -21,7 +22,7 @@
                         <li><a href="/parts">Parts</a></li>
                         <li><a href="/assembly">Assembly</a></li>
                         <li><a href="/history">History</a></li>
-                        <li><a href ="/about">About</a></li>
+                        <li><a href="/aboutus">About Us</a></li>
                     </ul>
                 </span>
             </div>
@@ -35,6 +36,8 @@
         </div>
         <script type="text/javascript" src="js/jquery-1.11.0.min.js"></script> 
         <script type="text/javascript" src="js/lightbox.min.js"></script> 
-    </body>
 
+
+  </body>
+ 
 </html>
