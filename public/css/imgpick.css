@@ -1,0 +1,32 @@
+  li{list-style-type:none;}
+    div.selection{
+        margin-top:2%;
+    }
+    div.checkbox{
+        margin-top:5%;
+    }
+    div.imagebox{
+        float:left;
+    }
+    div.introbox{
+      float:right;
+      width: 50%;
+      height: 30%
+    }
+    h1.builds{
+        margin-top: 5%;
+        clear: both;
+    }
+    div#cimage{
+        text-align: center;
+    }
+    div#selection1{
+        float: left;
+        width: 40%;
+    }
+    div#selection2{
+        width: 30%;
+    }
+    div#selection3{
+        float: right;
+    }
