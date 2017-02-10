@@ -21,6 +21,7 @@ class Welcome extends Application
 	{
 		$this->data['pagebody'] = 'welcome_message';
 		$this->render(); 
+                
 	}
 
 }
