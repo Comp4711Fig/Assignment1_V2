@@ -8,6 +8,7 @@
         <link rel="stylesheet" type="text/css" media="all" href="/css/text.css" />
         <link rel="stylesheet" type="text/css" media="all" href="/css/style.css" />
         <link rel="stylesheet" type="text/css" media="all" href="/css/lightbox.css" />
+        <link rel="stylesheet" type="text/css" media="all" href="/css/imgpick.css" />
     </head>
     
     <body>
@@ -17,10 +18,10 @@
                 <span class="mynav">
                     <ul>
                         <li><a href="/">Home</a></li>
-                        <li><a href="/about">About</a></li>
                         <li><a href="/part">Parts</a></li>
                         <li><a href="/assembly">Assembly</a></li>
                         <li><a href="/history">History</a></li>
+                        <li><a href="/aboutus">About Us</a></li>
                     </ul>
                 </span>
             </div>
@@ -34,6 +35,6 @@
         </div>
         <script type="text/javascript" src="js/jquery-1.11.0.min.js"></script> 
         <script type="text/javascript" src="js/lightbox.min.js"></script> 
-    </body>
-
+  </body>
+ 
 </html>

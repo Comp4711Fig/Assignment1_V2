@@ -1,6 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
+
 /*
 | -------------------------------------------------------------------
 | AUTO-LOADER
@@ -89,7 +90,7 @@ $autoload['drivers'] = array();
 |
 |	$autoload['helper'] = array('url', 'file');
 */
-$autoload['helper'] = array('url');
+'$autoload['helper'] = array('url');
 
 /*
 | -------------------------------------------------------------------
@@ -132,5 +133,6 @@ $autoload['language'] = array();
 |
 |	$autoload['model'] = array('first_model' => 'first');
 */
-//$autoload['model'] = array();
-$autoload['model'] = array('parts');
+
+$autoload['model'] = array('parts','historys');
+
