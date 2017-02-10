@@ -8,6 +8,7 @@
         <link rel="stylesheet" type="text/css" media="all" href="/css/text.css" />
         <link rel="stylesheet" type="text/css" media="all" href="/css/style.css" />
         <link rel="stylesheet" type="text/css" media="all" href="/css/lightbox.css" />
+        <link rel="stylesheet" type="text/css" media="all" href="/css/imgpick.css" />
     </head>
     
     <body>
@@ -20,6 +21,7 @@
                         <li><a href="/parts">Parts</a></li>
                         <li><a href="/assembly">Assembly</a></li>
                         <li><a href="/history">History</a></li>
+                        <li><a href ="/about">About</a></li>
                     </ul>
                 </span>
             </div>
